@@ -27,7 +27,6 @@
 |  | `git branch -d <branch-name>` | Delete a local branch. |
 |  | `git branch -a` | List all local and remote branches. |
 |  | `git checkout <branch-name>` | Switch to a branch. |
-|  | `git checkout -b <branch-name>` | Create and switch to a new branch. |
 |  | `git merge <branch>` | Merge the specified branch into the current branch. |
 |  | `git stash` | Save changes in a stash to work on another task without committing. |
 |  | `git stash pop` | Apply and remove the most recent stash. |
